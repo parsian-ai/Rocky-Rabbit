@@ -6,7 +6,7 @@
 // @author       Reza
 // @match        *://*.rockyrabbit.io/*
 // @grant        none
-// @icon         blob:https://web.telegram.org/8f157a87-39c6-46d4-a30a-1dd23a4c4a2d
+// @icon         https://rockyrabbit.io/images/about1.png
 // @downloadURL  https://github.com/rezamoradi4042/Racky-Rabbit/raw/main/Racky-Rabbit-Web.user.js
 // @updateURL    https://github.com/rezamoradi4042/Racky-Rabbit/raw/main/Racky-Rabbit-Web.user.js
 // @homepage     https://github.com/rezamoradi4042/Racky-Rabbit

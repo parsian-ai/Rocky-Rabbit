@@ -7,8 +7,8 @@
 // @match        *://*.rockyrabbit.io/*
 // @grant        none
 // @icon         blob:https://web.telegram.org/8f157a87-39c6-46d4-a30a-1dd23a4c4a2d
-// @downloadURL  https://github.com/rezamoradi4042/Racky-Rabbit/raw/main/Racky-Rabbit-Web.js
-// @updateURL    https://github.com/rezamoradi4042/Racky-Rabbit/raw/main/Racky-Rabbit-Web.js
+// @downloadURL  https://github.com/rezamoradi4042/Racky-Rabbit/raw/main/Racky-Rabbit-Web.user.js
+// @updateURL    https://github.com/rezamoradi4042/Racky-Rabbit/raw/main/Racky-Rabbit-Web.user.js
 // @homepage     https://github.com/rezamoradi4042/Racky-Rabbit
 // ==/UserScript==
 

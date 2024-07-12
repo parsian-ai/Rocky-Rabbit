@@ -1,3 +1,16 @@
+// ==UserScript==
+// @name         Racky Rabbit Web
+// @version      1.0
+// @description  Launch Racky Rabbit on Telegram Web
+// @author       Reza
+// @match        *://*.rockyrabbit.io/*
+// @grant        none
+// @icon         blob:https://web.telegram.org/8f157a87-39c6-46d4-a30a-1dd23a4c4a2d
+// @downloadURL  https://github.com/rezamoradi4042/Racky-Rabbit/blob/main/Racky-Rabbit-Web.js
+// @updateURL    https://github.com/rezamoradi4042/Racky-Rabbit/blob/main/Racky-Rabbit-Web.js
+// @homepage     https://github.com/rezamoradi4042/Racky-Rabbit
+// ==/UserScript==
+
 (() => {
   'use strict';
 

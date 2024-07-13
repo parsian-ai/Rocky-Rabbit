@@ -79,11 +79,9 @@ const getCurrentEnergy = () => {
             const energyValue = energySpan.textContent;
             return parseInt(energyValue, 10);
         } else {
-            console.log('Energy span not found');
             return null;
         }
     } else {
-        console.log('Energy div not found');
         return null;
     }
 };
@@ -93,7 +91,7 @@ const autoClick = () => {
     if (targetElement) {
         simulateClick(targetElement);
     } else {
-        console.log('Target element not found');
+       //
     }
 };
 
@@ -106,7 +104,7 @@ const startAutoClicker = () => {
             setTimeout(startAutoClicker, 1000);
         } else if (energyLevel <= 25) {
             const pauseDuration = getRandomInteger(30000, 60000);
-            console.log(`Energy low (${energyLevel}), pausing for ${pauseDuration} ms`);
+            console.log(`Energy low, pausing ...`);
             setTimeout(startAutoClicker, pauseDuration);
         } else {
             autoClick();

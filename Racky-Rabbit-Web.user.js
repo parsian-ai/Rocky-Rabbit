@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Racky Rabbit Web
+// @name         Rocky Rabbit Web
 // @namespace    http://www.google.com/
-// @version      1.1
+// @version      1.2
 // @description  Launch Racky Rabbit on Telegram Web
 // @author       Reza
 // @match        *://*.rockyrabbit.io/*

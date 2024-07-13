@@ -2,13 +2,13 @@
 // @name         Rocky Rabbit Web
 // @namespace    http://www.google.com/
 // @version      1.2
-// @description  Launch Racky Rabbit on Telegram Web
+// @description  Launch Rocky Rabbit on Telegram Web
 // @author       Reza
 // @match        *://*.rockyrabbit.io/*
 // @grant        none
 // @icon         https://rockyrabbit.io/images/about1.png
-// @downloadURL  https://github.com/parsian-ai/Rocky-Rabbit/raw/main/Racky-Rabbit-Web.user.js
-// @updateURL    https://github.com/parsian-ai/Rocky-Rabbit/raw/main/Racky-Rabbit-Web.user.js
+// @downloadURL  https://github.com/parsian-ai/Rocky-Rabbit/raw/main/Rocky-Rabbit-Web.user.js
+// @updateURL    https://github.com/parsian-ai/Rocky-Rabbit/raw/main/Rocky-Rabbit-Web.user.js
 // @homepage     https://github.com/parsian-ai/Rocky-Rabbit
 // ==/UserScript==
 

@@ -1,4 +1,4 @@
-# Launch Racky Rabbit in Telegram Web
+# Launch Rocky Rabbit in Telegram Web
 
 
 ## how to run

@@ -5,4 +5,5 @@
 
 - First install Violentmonkey Extensions
 
-- install [this](https://github.com/parsian-ai/Rocky-Rabbit/raw/main/Rocky-Rabbit-Web.user.js) script to run on web
+- To Run on web, install this [script](https://github.com/parsian-ai/Rocky-Rabbit/raw/main/Rocky-Rabbit-Web.user.js) 
+- To Run on Auto click, install this [script](https://github.com/parsian-ai/Rocky-Rabbit/raw/main/Rocky-Rabbit-Web.user.js) 

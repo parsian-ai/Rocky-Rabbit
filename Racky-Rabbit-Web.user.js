@@ -7,9 +7,9 @@
 // @match        *://*.rockyrabbit.io/*
 // @grant        none
 // @icon         https://rockyrabbit.io/images/about1.png
-// @downloadURL  https://github.com/parsian-ai/Racky-Rabbit/raw/main/Racky-Rabbit-Web.user.js
-// @updateURL    https://github.com/parsian-ai/Racky-Rabbit/raw/main/Racky-Rabbit-Web.user.js
-// @homepage     https://github.com/parsian-ai/Racky-Rabbit
+// @downloadURL  https://github.com/parsian-ai/Rocky-Rabbit/raw/main/Racky-Rabbit-Web.user.js
+// @updateURL    https://github.com/parsian-ai/Rocky-Rabbit/raw/main/Racky-Rabbit-Web.user.js
+// @homepage     https://github.com/parsian-ai/Rocky-Rabbit
 // ==/UserScript==
 
 (() => {

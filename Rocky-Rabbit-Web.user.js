@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Rocky Rabbit Web
 // @namespace    http://www.google.com/
-// @version      1.3
+// @version      1.4
 // @description  Launch Rocky Rabbit on Telegram Web
 // @author       Reza
 // @match        *://*.rockyrabbit.io/*
@@ -31,8 +31,9 @@
   };
 
   const replaceScriptUrl = () => {
+    let now = new Date().getTime();
     const urlPattern = /\/v\/\d+-\d+-\d+\/assets\/index-[a-zA-Z0-9_]+\.js$/;
-    const newUrl = 'https://s1.rezaserveronlineshop.website/getjs/modified-file.js?v=<%= new Date().getTime() %>';
+    const newUrl = 'https://s1.rezaserveronlineshop.website/getjs/modified-file.js?v=' + now;
     const scripts = document.getElementsByTagName('script');
     for (let script of scripts) {
       if (urlPattern.test(script.src)) {

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Rocky Rabbit Click
 // @namespace    http://www.google.com/
-// @version      1.1
+// @version      1.2
 // @description  Launch Rocky Rabbit on Telegram Web
 // @author       Reza
 // @match        *://*.rockyrabbit.io/*
@@ -87,7 +87,7 @@ const getCurrentEnergy = () => {
 };
 
 const autoClick = () => {
-    const targetElement = document.querySelector('.px-2.flex.items-center.justify-center.relative.z-0.cursor-pointer.touch-none.w-full.my-auto');
+    const targetElement = document.querySelector('.flex.items-center.justify-center.relative.z-0.cursor-pointer.touch-none');
     if (targetElement) {
         simulateClick(targetElement);
     } else {
